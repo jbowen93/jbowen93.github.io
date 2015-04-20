@@ -1,0 +1,10 @@
+drwx--x---   6 josbow13 adm          4096 Apr  9 11:33 .
+drwx--x---   6 josbow13 adm          4096 Apr  9 11:33 ..
+-rw-r--r--   1 josbow13 pg8457216      260 Mar 23  2012 .alias
+-rw-r--r--   1 josbow13 pg8457216       81 Mar 23  2012 .bash_profile
+-rw-r--r--   1 josbow13 pg8457216       55 Mar 23  2012 .bashrc
+drwx------   2 josbow13 pg8457216       41 Apr  9 11:33 .cache
+-rw-r--r--   1 josbow13 pg8457216      417 Mar 23  2012 .cshrc
+drwxr-xr-x   5 josbow13 pg8457216       52 Feb  2 13:26 Maildir
+drwxr-xr-x   3 josbow13 pg8457216     4096 Apr  9 14:48 joshbowen.org
+dr-xr-x---   3 josbow13 dhapache       34 Apr  6 12:09 logs
